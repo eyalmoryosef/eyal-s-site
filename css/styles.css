@@ -27,9 +27,12 @@ h1 {
 }
 
 .middle-container {
+    background-color:#FEFBE7;
 }
 
-.bottom-container {}
+.bottom-container {
+    background-color: #DAE5D0;
+}
 
 .top-cloud {
   position: absolute;
@@ -83,4 +86,18 @@ a {
  overflow: auto;}
 p{
   font-size: 1.2rem;
+}
+.btn{
+  background-color: #F9CEEE;
+  border-radius: 25px;
+  padding: 10px;
+}
+.skills{
+
+}
+.transition{
+
+}
+.profile{
+
 }
